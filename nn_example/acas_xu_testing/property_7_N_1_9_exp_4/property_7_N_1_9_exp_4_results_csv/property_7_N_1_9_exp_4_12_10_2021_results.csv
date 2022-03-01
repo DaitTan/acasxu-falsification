@@ -1,0 +1,31 @@
+con_int_fv_wo_gp_classified_quan_confidence_0_95,"(nan, nan)"
+con_int_fv_wo_gp_classified_unclassified_quan_confidence_0_95,"(nan, nan)"
+mean_fv_wo_gp_classified,0.0
+mean_fv_wo_gp_classified_unclassified,1583147052673.9102
+std_dev_fv_wo_gp_classified,nan
+std_dev_fv_wo_gp_classified_unclassified,nan
+falsified_true,[1]
+numpoints_fin_first_f_mean,26.0
+numpoints_fin_first_f_median,26.0
+numpoints_fin_first_f_min,26
+numpoints_fin_first_f_max,26
+falsification_rate,1
+best_robustness,-7
+mean_fv_with_gp_quan0_5,824555756.600995
+std_dev_fv_with_gp_quan0_5,nan
+con_int_fv_with_gp_quan_0_5_confidence_0_95,"(nan, nan)"
+mean_fv_with_gp_quan0_95,149079680.79345986
+std_dev_fv_with_gp_quan0_95,nan
+con_int_fv_with_gp_quan_0_95_confidence_0_95,"(nan, nan)"
+mean_fv_with_gp_quan0_99,100265980.00268096
+std_dev_fv_with_gp_quan0_99,nan
+con_int_fv_with_gp_quan_0_99_confidence_0_95,"(nan, nan)"
+falsification_corr_point,"[array([26,
+       array([ 3.80461198e+03, -2.71802053e+00,  1.28046079e+00,  8.42733598e+02,
+               3.59701864e+02])                                                  ,
+       0], dtype=object)]"
+unfalsification_corr_point,[]
+best_robustness_points,"[array([1071,
+       array([  20.74461378,    1.9277893 ,   -1.962322  , 1165.09485753,
+              1052.31996269])                                            ,
+       -7], dtype=object)]"
