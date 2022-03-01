@@ -4,7 +4,7 @@ Neural Networks are being increasingly used in the domain of perception, predict
 
 This project uses [PartX](https://arxiv.org/abs/2110.10729) to find the falsifying inputs.
 
-This project was developed for the Course Safe Autonomy for CPS by Dr. Georgios Fainekos, ASU in all 2021.
+This project was developed for the Course Safe Autonomy for CPS by Dr. Georgios Fainekos, ASU in Fall 2021.
 
 Parts of the code that involved reading ACAS-Xu benchmark neural networks and converting to tensorflow models were taken and modified from [https://github.com/rnbguy/acasxu_tf_keras](https://github.com/rnbguy/acasxu_tf_keras).
 
